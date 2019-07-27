@@ -24,7 +24,7 @@ body {
     font-family: Tahoma;
     background: #ff6c00;
     margin: 0;
-    background: url("https://raw.githubusercontent.com/goyalion17/goyalion17.github.io/master/Modal%20window%20js/img/back.png");
+    background: url(./img/back.png);
 }
 
 h1 {
