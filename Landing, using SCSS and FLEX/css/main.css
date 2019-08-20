@@ -204,7 +204,7 @@ body .our_process p {
 body .our_process .back_process {
   height: 500px;
   width: auto;
-  background-image: url(/img/Our_process.png);
+  background-image: url(../img/Our_process.png);
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -382,27 +382,27 @@ body .portfolio .container-filter {
 }
 
 body .portfolio .container-filter #ex1 {
-  background-image: url(/img/portfolio/1.png);
+  background-image: url(../img/portfolio/1.png);
 }
 
 body .portfolio .container-filter #ex2 {
-  background-image: url(/img/portfolio/2.png);
+  background-image: url(../img/portfolio/2.png);
 }
 
 body .portfolio .container-filter #ex3 {
-  background-image: url(/img/portfolio/3.png);
+  background-image: url(../img/portfolio/3.png);
 }
 
 body .portfolio .container-filter #ex4 {
-  background-image: url(/img/portfolio/4.png);
+  background-image: url(../img/portfolio/4.png);
 }
 
 body .portfolio .container-filter #ex5 {
-  background-image: url(/img/portfolio/5.png);
+  background-image: url(../img/portfolio/5.png);
 }
 
 body .portfolio .container-filter #ex6 {
-  background-image: url(/img/portfolio/6.png);
+  background-image: url(../img/portfolio/6.png);
 }
 
 body .portfolio .container-filter div {
@@ -421,7 +421,7 @@ body .portfolio .container-filter div .fil {
   display: none;
   position: relative;
   margin: 0;
-  background: url(/img/portfolio/plus.png) rgba(255, 72, 72, 0.75);
+  background: url(../img/portfolio/plus.png) rgba(255, 72, 72, 0.75);
   background-position: center;
   background-repeat: no-repeat;
 }
