@@ -204,7 +204,7 @@ body .our_process p {
 body .our_process .back_process {
   height: 500px;
   width: auto;
-  background-image: url(../img/Our_process.png);
+  background-image: url(../img/our_process.png);
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
