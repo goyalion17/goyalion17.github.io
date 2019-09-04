@@ -1,20 +1,18 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Header from './Header.js';
-import List from './List.js';
+import Header from "./componets/Header";
+import Profile from "./componets/Profile";
+import Navbar from "./componets/Nav";
 
 const App = () => {
   return (
-    <div>
-      <div><Header /></div>
-      <div><List /></div>
+    <div className="app-wrapper">
+      <Header />
+      <Navbar />
+      <Profile />
     </div>
   );
 };
-
-
-
-
 
 export default App;
